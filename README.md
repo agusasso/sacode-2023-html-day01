@@ -2,6 +2,6 @@
 Pertemian Day 01 : Belajar Git &amp; GitHub
 
 ##website SaCode
-https://saode.web.id/
+https://sacode.web.id/
 ##instagram SaCode
 https://instagram.com/sacode.official
